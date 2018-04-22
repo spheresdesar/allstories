@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         kramdown
+# highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Les Sphères de Sar
+tagline:          'Nouvelles d''autres mondes'
+description:      'Nouvelles d''autres mondes'
+url:              http://spheresdesar.com
+baseurl:          /
+
+paginate: 10
+
+excerpt_separator: <!--more-->
+
+gems: 
+ - jekyll-paginate
+ - kramdown
