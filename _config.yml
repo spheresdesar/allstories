@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Les Sphères de Sar
+title:            La tanière de papier
 tagline:          'Nouvelles d''autres mondes'
 description:      'Nouvelles d''autres mondes'
-url:              http://spheresdesar.com
+url:              http://latanieredepapier.com
 baseurl:          /
 
 paginate: 10
