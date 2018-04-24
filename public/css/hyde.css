@@ -249,13 +249,13 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-/* AK Orange */
+/* AK Brown */
 .my-theme .sidebar {
-  background-color: #F5A623;
+  background-color: #745D37;
 }
 .my-theme .content a,
 .my-theme .related-posts li a:hover {
-  color: #F5A623;
+  color: #745D37;
 }
 
 /*Custom style*/
