@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            La tanière de papier
+title:            'La&nbsp;tanière de&nbsp;papier'
 tagline:          'Nouvelles et textes courts'
-description:      'Nouvelles et textes courts célébrant l''imaginaire par Alice Katovar'
+description:      'Nouvelles et textes courts célébrant l''imaginaire<br/>par Alice Katovar'
 url:              http://latanieredepapier.com
 baseurl:          /
 
